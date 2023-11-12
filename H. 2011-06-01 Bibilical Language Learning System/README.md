@@ -1,0 +1,6 @@
+![Biblemesh-Frontpage.jpg](Biblemesh-Frontpage.jpg)
+![Biblemesh-Group.jpg](Biblemesh-Group.jpg)
+![Biblemesh-Intro.jpg](Biblemesh-Intro.jpg)
+![Class-Diagram.jpg](Class-Diagram.jpg)
+![Sequence-Diagram.jpg](Sequence-Diagram.jpg)
+![Use-Case-Diagram.jpg](Use-Case-Diagram.jpg)
