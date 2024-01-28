@@ -1,1 +1,1 @@
-![AdderGate.jpg](screenshots/AdderGate.jpg)
+![AdderGate.jpg](Screenshots/AdderGate.jpg)

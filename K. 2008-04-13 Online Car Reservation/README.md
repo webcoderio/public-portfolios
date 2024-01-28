@@ -1,3 +1,3 @@
-![Select.jpg](screenshots/Select.jpg)
-![Home.jpg](screenshots/Home.jpg)
-![Modify.jpg](screenshots/Modify.jpg)
+![Select.jpg](Screenshots/Select.jpg)
+![Home.jpg](Screenshots/Home.jpg)
+![Modify.jpg](Screenshots/Modify.jpg)
